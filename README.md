@@ -2,4 +2,4 @@ This repository uses Tweebo-Parser to generate POS tags for tweets. Used as a pr
 Also does additional bookkeeping and dataframe preparation.
 The Tweebo Parser is run using docker on a server.
 
-Notebook to run: framework_testing.ipynb
+Jupyter Notebook to run: framework_testing.ipynb
